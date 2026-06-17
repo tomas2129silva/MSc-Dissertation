@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore files from this folder I dont want on github
+Data/
+.DS_Store
+*.xlsx
+*.docx
