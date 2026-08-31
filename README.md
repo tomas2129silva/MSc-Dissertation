@@ -1,4 +1,4 @@
-# MSc-Thesis
+# MSc-Dissertation
 Correlative imaging of Raman, synchrotron SAXS and nanoindentation on fibrotic tissue with machine learning.
 
  - Kmeans_SAXS: Generates ground truth data and compares how Kmeans performs when we give it more features
