@@ -218,7 +218,11 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Ignore files from this folder I dont want on github
-Data/
 .DS_Store
 *.xlsx
 *.docx
+Data-cleaned/
+Global_Skin_clustering.ipynb
+Cleaning_Samples.ipynb
+Data/*.pdf
+*.zip
